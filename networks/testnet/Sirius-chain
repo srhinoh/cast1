@@ -1,1 +1,10 @@
-
+{
+  "SG_FORGE": "{{ "m/44'/1729'/0'/0'" | Sirius_private_key }}",
+  "REGISTRAR": "{{ "m/44'/1729'/0'/1'" | Sirius_private_key }}",
+  "SETTLEMENT_AGENT": "{{ "m/44'/1729'/0'/2'" | Sirius_private_key }}",
+  "ISSUER_1": "{{ "m/44'/1729'/0'/3'" | Sirius_private_key }}",
+  "INVESTOR_1": "{{ "m/44'/1729'/0'/4'" | Sirius_private_key }}",
+  "DEALER_1": "{{ "m/44'/1729'/0'/5'" | Sirius_private_key }}",
+  "DEALER_2": "{{ "m/44'/1729'/0'/6'" | Sirius_private_key }}",
+  "STR": "{{ "m/44'/1729'/0'/7'" | Sirius_private_key }}"
+}
